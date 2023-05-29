@@ -43,7 +43,7 @@ public:
 
 	}
 	string perkenalan() {
-		return " Hallo, nama saya " + nama +  "dengan jenis kelamin" + jeniskelamin + "dari sekolah" + sekolah + "\n\n";
+		return " Hallo, nama saya " + nama +  " dengan jenis kelamin " + jeniskelamin + " dari sekolah " + sekolah + "\n\n";
 	}
 };
 
